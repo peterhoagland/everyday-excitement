@@ -7,7 +7,7 @@ body {
   transform-style: preserve-3d;
   height: 100%;
   overflow-x: hidden;
-  font-family: 'Roboto';
+  font-family: 'Roboto', sans-serif;
 }
 .left-underline {
   display: inline-block;
@@ -186,9 +186,5 @@ footer p {
   color: #ececec;
 }
 
-@font-face {
-    font-family: Roboto;
-    src: url("../everyday-excitement/Roboto-Black.ttf") format('truetype');
-}
 /* Blank lines for ease and view */
 /* */
